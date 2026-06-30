@@ -1,1 +1,1 @@
-# dashboard-citas-medicas
+Dashboard de Gestión de Citas Médicas desarrollado para el Laboratorio 13 del curso Business Intelligence and Big Data.
